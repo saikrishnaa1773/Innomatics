@@ -1,1 +1,1 @@
-*Deli-Core: Strategic Food Delivery Intelligence Dashboard*
+**Deli-Core: Strategic Food Delivery Intelligence Dashboard**
